@@ -1,0 +1,19 @@
+{
+ "title": "Apache Roller·VMware vCenter 실제 악용 취약점 등 20건 정리 | 보안 브리핑 11월 23일(월)",
+ "url": "https://securoutine.blogspot.com/2026/11/2026-11-23-8kisa-6-cve-6.html",
+ "llm_model": "gemini-flash-lite-latest",
+ "labels": [
+  "보안브리핑",
+  "보안취약점",
+  "CVE",
+  "KISA보안공지",
+  "CISA KEV",
+  "Apache",
+  "Broadcom",
+  "SAP",
+  "Cisco",
+  "Synology",
+  "BerriAI"
+ ],
+ "published_at": "2026-11-23T14:39+09:00"
+}
